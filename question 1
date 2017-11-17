@@ -1,0 +1,4 @@
+1. A controlled variable (or loop counter) 
+2. The initial value of the control variable. 
+3. The increment (or decrement) by which the control variable is modified each time through the loop (known as each iteration of the loop).
+4. The loop-continuation condition that determines if looping should continue.
