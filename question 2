@@ -1,0 +1,4 @@
+The while statement can be used to implement any counter controlled loop, 
+the for repetition statement is for specifying the counter controlled repetition detail in a single line of code. 
+The for statements are used for counter controlled repetition and the while statements for sentinel controlled repetition. 
+while and for can both be used for either repetition type.
